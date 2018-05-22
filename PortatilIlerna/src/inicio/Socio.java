@@ -1,3 +1,4 @@
+package inicio;
 /**
  * Clase que genera el molde de un Socio.
  * @author Jon Ander Ochoa Ruiz

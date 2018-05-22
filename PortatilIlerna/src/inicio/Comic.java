@@ -1,10 +1,11 @@
+package inicio;
 
 public class Comic extends Libro {
 
 	private String ilustrador;
 
-	public Comic(String ilustrador, String titulo, String ISBN, String autor, int numeroPaginas, String editorial) {
-		super(titulo, ISBN, autor, numeroPaginas, editorial);
+	public Comic(String ilustrador, String titulo, String ISBN, String autor, int numeroPaginas, String editorial, TipoPrestamo prestamo) {
+		super(titulo, ISBN, autor, numeroPaginas, editorial, prestamo);
 		this.ilustrador = ilustrador;
 	}
 
@@ -20,7 +21,7 @@ public class Comic extends Libro {
 	public String toString() {
 		return "Comic [ilustrador=" + ilustrador + ", getTitulo()=" + getTitulo() + ", getISBN()=" + getISBN()
 				+ ", getAutor()=" + getAutor() + ", getNumeroPaginas()=" + getNumeroPaginas() + ", getEditorial()="
-				+ getEditorial() + "]";
+				+ getEditorial() + ", getPrestamo()=" + getPrestamo() +"]";
 	}
 	
 }

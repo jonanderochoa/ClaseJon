@@ -1,3 +1,4 @@
+package inicio;
 import java.util.Scanner;
 
 /**
@@ -49,7 +50,7 @@ public class Principal {
 		String editorial = entrada.nextLine();
 		
 		//Instanciamos el segundo libro con todos los valores.
-		Libro libro2 = new Libro(titulo, ISBN2, autor, numeroPaginas, editorial);
+		Libro libro2 = new Libro(titulo, ISBN2, autor, numeroPaginas, editorial, TipoPrestamo.DIARIO);
 		
 		//Instanciamos el tercer libro con el constructor vacio.
 		Libro libro3 = new Libro();

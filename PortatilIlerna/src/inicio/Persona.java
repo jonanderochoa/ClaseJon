@@ -1,3 +1,4 @@
+package inicio;
 
 public abstract class Persona {
 
