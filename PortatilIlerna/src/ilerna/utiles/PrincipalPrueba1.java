@@ -1,11 +1,14 @@
 package ilerna.utiles;
 
 public class PrincipalPrueba1 {
-
+	
 	public static void main(String[] args) {
+		
+		Archivo nuevoArchivo = new Archivo();
+		
 		UtilesArrays utiles = new UtilesArrays();
 		try {
-
+			
 			// ################################### EJERCICIO 1 #####################################
 			
 			//Ejemplo ejercicio 1a
@@ -49,6 +52,8 @@ public class PrincipalPrueba1 {
 			System.out.println(cadena);
 			int numVoc = Cadenas.contadorVocales(cadena);
 			System.out.println("Número de vocales: " + numVoc);
+			nuevoArchivo.escribirArchivo(cadena);
+			nuevoArchivo.escribirArchivo("Número de vocales: " + numVoc);
 			
 			//Ejemplo ejercicio 2b
 			Utiles.titulo("Ejercicio 2b", "Método que dado un número y un carácter indique si el DNI formado por la\r\n" + 
@@ -58,6 +63,9 @@ public class PrincipalPrueba1 {
 			System.out.println("Número inicial: " + numero);
 			System.out.println("Letra inicial: " + letra);
 			System.out.println("Válido: " + Cadenas.validarDNI(numero, letra));
+			nuevoArchivo.escribirArchivo("Número inicial: " + numero);
+			nuevoArchivo.escribirArchivo("Letra inicial: " + letra);
+			nuevoArchivo.escribirArchivo("Válido: " + Cadenas.validarDNI(numero, letra));
 			
 			//Ejemplo ejercicio 2c
 			Utiles.titulo("Ejercicio 2c", "Método que reciba una cadena de texto y devuelva otra cadena igual a la\r\n" + 
@@ -65,6 +73,8 @@ public class PrincipalPrueba1 {
 			String cadena2 = "Cadena de prueba";
 			System.out.println("Cadena inicial: " + cadena2);
 			System.out.println("Cadena invertida: " + Cadenas.invertirCadena(cadena2));
+			nuevoArchivo.escribirArchivo("Cadena inicial: " + cadena2);
+			nuevoArchivo.escribirArchivo("Cadena invertida: " + Cadenas.invertirCadena(cadena2));
 			
 			//Ejemplo ejercicio 2d
 			Utiles.titulo("Ejercicio 2d", "Método que reciba una cadena de texto y un carácter y devuelva el número de\r\n" + 
@@ -73,9 +83,12 @@ public class PrincipalPrueba1 {
 			String cadenaD = "Contaremos el número de veces que esta frase tiene la letra 'r'";
 			System.out.println("Cadena inicial: " + cadenaD);
 			System.out.println("Número de 'r': " + Cadenas.cuentaLetras(cadenaD, 'r'));
+			nuevoArchivo.escribirArchivo("Cadena inicial: " + cadenaD);
+			nuevoArchivo.escribirArchivo("Número de 'r': " + Cadenas.cuentaLetras(cadenaD, 'r'));
 			
 		}catch (Exception e) {
 			System.out.println("Error: "+ e.getMessage());
+			nuevoArchivo.escribirArchivo("Error: "+ e.getMessage());
 		}
 	}
 }

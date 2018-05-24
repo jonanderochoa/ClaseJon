@@ -1,0 +1,512 @@
+
+*********************************************
+            Ejercicio 1a                   
+*********************************************
+Método que dado un número n, un límite inferior y un límite superior, devuelva un array con n números 
+ enteros aleatorios con valores comprendidos entre el límite inferior y el límite superior.
+
+Números aleatorios: [
+5
+, 
+11
+, 
+7
+, 
+12
+, 
+9
+, 
+9
+]
+
+
+*********************************************
+            Ejercicio 1b                   
+*********************************************
+Método que dado un array devuelva el mismo array, pero invertido.
+
+Array entrada: [
+1
+, 
+2
+, 
+3
+, 
+4
+, 
+5
+, 
+6
+, 
+7
+, 
+8
+]
+
+Array invertido: [
+8
+, 
+7
+, 
+6
+, 
+5
+, 
+4
+, 
+3
+, 
+2
+, 
+1
+]
+
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+Array posición: [
+1
+, 
+2
+, 
+3
+, 
+4
+, 
+5
+, 
+6
+, 
+7
+, 
+8
+, 
+9
+, 
+10
+]
+
+
+*********************************************
+            Ejercicio 1d                   
+*********************************************
+Método que dados dos arrays del mismo tamaño devuelva otro array que contenga en cada posición el resultado
+ de multiplicar los elementos situados en la misma posición de ambos arrays.
+
+Array 1  : [
+2
+, 
+4
+, 
+6
+, 
+8
+]
+
+Array 2  : [
+1
+, 
+3
+, 
+5
+, 
+7
+]
+
+Resultado: [
+2
+, 
+12
+, 
+30
+, 
+56
+]
+
+
+*********************************************
+            Ejercicio 2a                   
+*********************************************
+Método que reciba una cadena de texto y devuelva el número de vocales que
+contiene la cadena. Tengan en cuenta que las vocales pueden aparecer en
+minúsculas o en mayúsculas. No tenga en cuenta las posibles vocales con tildes,
+diéresis u otros signos ortográficos.
+
+Esta cadena debe tener 12 vocales
+Número de vocales: 12
+
+*********************************************
+            Ejercicio 2b                   
+*********************************************
+Método que dado un número y un carácter indique si el DNI formado por la
+unión de ambos es correcto.
+
+Número inicial: 16080781
+Letra inicial: d
+Válido: true
+
+*********************************************
+            Ejercicio 2c                   
+*********************************************
+Método que reciba una cadena de texto y devuelva otra cadena igual a la
+primera, pero con los caracteres en orden inverso.
+
+Cadena inicial: Cadena de prueba
+Cadena invertida: abeurp ed anedaC
+
+*********************************************
+            Ejercicio 2d                   
+*********************************************
+Método que reciba una cadena de texto y un carácter y devuelva el número de
+apariciones del carácter en la cadena. Utilice los métodos indexOf y lasIndexOf de
+la clase String para acotar la búsqueda.
+
+Cadena inicial: Contaremos el número de veces que esta frase tiene la letra 'r'
+Número de 'r': 5
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+Error: For input string: "098765432345678987654323456"
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+Error: For input string: "."
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+Error: For input string: "1/0"
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+Array posición: [
+1
+, 
+2
+, 
+3
+]
+
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+Error: For input string: "a"
+
+*********************************************
+            Ejercicio 1a                   
+*********************************************
+Método que dado un número n, un límite inferior y un límite superior, devuelva un array con n números 
+ enteros aleatorios con valores comprendidos entre el límite inferior y el límite superior.
+
+Números aleatorios: [
+8
+, 
+15
+, 
+5
+, 
+12
+, 
+14
+, 
+13
+]
+
+
+*********************************************
+            Ejercicio 1b                   
+*********************************************
+Método que dado un array devuelva el mismo array, pero invertido.
+
+Array entrada: [
+1
+, 
+2
+, 
+3
+, 
+4
+, 
+5
+, 
+6
+, 
+7
+, 
+8
+]
+
+Array invertido: [
+8
+, 
+7
+, 
+6
+, 
+5
+, 
+4
+, 
+3
+, 
+2
+, 
+1
+]
+
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+Array posición: [
+1
+, 
+2
+, 
+3
+, 
+4
+, 
+5
+, 
+6
+, 
+7
+, 
+8
+, 
+9
+, 
+10
+]
+
+
+*********************************************
+            Ejercicio 1d                   
+*********************************************
+Método que dados dos arrays del mismo tamaño devuelva otro array que contenga en cada posición el resultado
+ de multiplicar los elementos situados en la misma posición de ambos arrays.
+
+
+Los array deben tener la misma medida
+
+*********************************************
+            Ejercicio 2a                   
+*********************************************
+Método que reciba una cadena de texto y devuelva el número de vocales que
+contiene la cadena. Tengan en cuenta que las vocales pueden aparecer en
+minúsculas o en mayúsculas. No tenga en cuenta las posibles vocales con tildes,
+diéresis u otros signos ortográficos.
+
+Esta cadena debe tener 12 vocales
+Número de vocales: 12
+
+*********************************************
+            Ejercicio 2b                   
+*********************************************
+Método que dado un número y un carácter indique si el DNI formado por la
+unión de ambos es correcto.
+
+Número inicial: 16080781
+Letra inicial: d
+Válido: true
+
+*********************************************
+            Ejercicio 2c                   
+*********************************************
+Método que reciba una cadena de texto y devuelva otra cadena igual a la
+primera, pero con los caracteres en orden inverso.
+
+Cadena inicial: Cadena de prueba
+Cadena invertida: abeurp ed anedaC
+
+*********************************************
+            Ejercicio 2d                   
+*********************************************
+Método que reciba una cadena de texto y un carácter y devuelva el número de
+apariciones del carácter en la cadena. Utilice los métodos indexOf y lasIndexOf de
+la clase String para acotar la búsqueda.
+
+Cadena inicial: Contaremos el número de veces que esta frase tiene la letra 'r'
+Número de 'r': 5
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+Array posición: [
+1
+, 
+2
+]
+
+
+*********************************************
+            Ejercicio 1d                   
+*********************************************
+Método que dados dos arrays del mismo tamaño devuelva otro array que contenga en cada posición el resultado
+ de multiplicar los elementos situados en la misma posición de ambos arrays.
+
+
+Los array deben tener la misma medida
+Error: null
+
+*********************************************
+            Ejercicio 1d                   
+*********************************************
+Método que dados dos arrays del mismo tamaño devuelva otro array que contenga en cada posición el resultado
+ de multiplicar los elementos situados en la misma posición de ambos arrays.
+
+
+Los array deben tener la misma medida
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+Array posición: [
+1
+, 
+2
+, 
+3
+, 
+4
+, 
+5
+, 
+6
+]
+
+
+*********************************************
+            Ejercicio 1d                   
+*********************************************
+Método que dados dos arrays del mismo tamaño devuelva otro array que contenga en cada posición el resultado
+ de multiplicar los elementos situados en la misma posición de ambos arrays.
+
+
+Los array deben tener la misma medida
+
+*********************************************
+            Ejercicio 2b                   
+*********************************************
+Método que dado un número y un carácter indique si el DNI formado por la
+unión de ambos es correcto.
+
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+Array posición: [
+1
+, 
+2
+]
+
+
+*********************************************
+            Ejercicio 1d                   
+*********************************************
+Método que dados dos arrays del mismo tamaño devuelva otro array que contenga en cada posición el resultado
+ de multiplicar los elementos situados en la misma posición de ambos arrays.
+
+
+Los array deben tener la misma medida
+
+*********************************************
+            Ejercicio 2b                   
+*********************************************
+Método que dado un número y un carácter indique si el DNI formado por la
+unión de ambos es correcto.
+
+Error: For input string: "2987654323456789876543"
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+Array posición: [
+1
+]
+
+
+*********************************************
+            Ejercicio 1d                   
+*********************************************
+Método que dados dos arrays del mismo tamaño devuelva otro array que contenga en cada posición el resultado
+ de multiplicar los elementos situados en la misma posición de ambos arrays.
+
+
+Los array deben tener la misma medida
+
+*********************************************
+            Ejercicio 2b                   
+*********************************************
+Método que dado un número y un carácter indique si el DNI formado por la
+unión de ambos es correcto.
+
+Error: For input string: "adsfghghfgh"

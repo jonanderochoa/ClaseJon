@@ -3,7 +3,8 @@ package ilerna.utiles;
 import java.util.Random;
 
 public class UtilesArrays {
-
+	
+	private static Archivo fichero;
 	/**
 	 * Método que dado un número n, un límite inferior y un límite superior, devuelva un array con n números 
 	 * enteros aleatorios con valores comprendidos entre el límite inferior y el límite superior INCLUSIVE.
@@ -25,6 +26,7 @@ public class UtilesArrays {
 			}
 		}catch (Exception e) {
 			System.out.println(e.getMessage());
+			fichero.escribirArchivo(e.getMessage());
 		}
 		//Devolvemos el array
 		return resultado;
@@ -76,12 +78,15 @@ public class UtilesArrays {
 	 * en el mismo indice
 	 */
 	public int[] multiplicaValoresArray(int[] array1, int[] array2) {
+		fichero = new Archivo();
 		//Se instancia un nuevo array de la misma longitud que el array1
 		int[] resultado = new int[array1.length];
 		//Comprobamos que los arrays miden lo mismo
 		if(array1.length != array2.length) {
 			System.out.println();
+			fichero.escribirArchivo("");
 			System.out.println("Los array deben tener la misma medida");
+			fichero.escribirArchivo("Los array deben tener la misma medida");
 			return null;
 		}else {
 			try {
@@ -91,6 +96,8 @@ public class UtilesArrays {
 				}
 			}catch (Exception e) {
 				System.out.println(e.getMessage());
+				fichero.escribirArchivo(e.getMessage());
+				
 			}
 		}
 		return resultado;
