@@ -510,3 +510,202 @@ Método que dado un número y un carácter indique si el DNI formado por la
 unión de ambos es correcto.
 
 Error: For input string: "adsfghghfgh"
+
+*********************************************
+            Ejercicio 1c                   
+*********************************************
+Método que reciba un número entero tam y devuelva un array de enteros de tamaño tam donde cada elemento
+ sea igual a su posición natural (1 para la primera posición, 2 para la segunda, y así sucesivamente)
+
+Error: null
+
+*********************************************
+            Ejercicio 1d                   
+*********************************************
+Método que dados dos arrays del mismo tamaño devuelva otro array que contenga en cada posición el resultado
+ de multiplicar los elementos situados en la misma posición de ambos arrays.
+
+
+Los array deben tener la misma medida
+
+*********************************************
+            Ejercicio 2b                   
+*********************************************
+Método que dado un número y un carácter indique si el DNI formado por la
+unión de ambos es correcto.
+
+Error: null
+
+*********************************************
+            BORRADO DE LA BBDD                   
+*********************************************
+Limpieza de la base de datos
+
+
+*********************************************
+            BORRADO DE LA BBDD                   
+*********************************************
+Limpieza de la base de datos
+
+
+*********************************************
+            BORRADO DE LA BBDD                   
+*********************************************
+Limpieza de la base de datos
+
+
+*********************************************
+            COCHES CREADOS                   
+*********************************************
+Muestra los coches que contiene la BBDD
+
+
+*********************************************
+            PRUEBA DE BORRADO LÓGICO                   
+*********************************************
+Prueba de borrado lógico
+
+
+*********************************************
+            BORRADO DE LA BD                   
+*********************************************
+Limpieza de la base de datos
+
+
+*********************************************
+            COCHES CREADOS                   
+*********************************************
+Muestra los coches que contiene la BD
+
+
+*********************************************
+            PRUEBA DE BORRADO LÓGICO                   
+*********************************************
+Prueba de borrado lógico
+
+
+*********************************************
+            BORRADO DE LA BD                   
+*********************************************
+Limpieza de la base de datos
+
+
+*********************************************
+            COCHES CREADOS                   
+*********************************************
+Muestra los coches que contiene la BD
+
+
+*********************************************
+            PRUEBA DE BORRADO LÓGICO                   
+*********************************************
+Prueba de borrado lógico
+
+
+*********************************************
+            BORRADO DE LA BD                   
+*********************************************
+Limpieza de la base de datos
+
+
+*********************************************
+            PASOS                   
+*********************************************
+
+
+
+*********************************************
+            COCHES CREADOS                   
+*********************************************
+Muestra los coches que contiene la BD
+
+
+*********************************************
+            PRUEBA DE BORRADO LÓGICO                   
+*********************************************
+Prueba de borrado lógico
+
+
+*********************************************
+            BORRADO DE LA BD                   
+*********************************************
+Limpieza de la base de datos
+
+
+*********************************************
+            PASOS                   
+*********************************************
+
+
+
+*********************************************
+            COCHES CREADOS                   
+*********************************************
+Muestra los coches que contiene la BD
+
+
+*********************************************
+            PRUEBA DE BORRADO LÓGICO                   
+*********************************************
+Prueba de borrado lógico
+
+
+*********************************************
+            BORRADO DE LA BD                   
+*********************************************
+Limpieza de la base de datos
+
+
+*********************************************
+            PASOS                   
+*********************************************
+
+
+
+*********************************************
+            BORRADO DE LA BD                   
+*********************************************
+Limpieza de la base de datos
+
+
+*********************************************
+            PASOS                   
+*********************************************
+
+
+
+*********************************************
+            COCHES CREADOS                   
+*********************************************
+Muestra los coches que contiene la BD
+
+
+*********************************************
+            PRUEBA DE BORRADO LÓGICO                   
+*********************************************
+Prueba de borrado lógico
+
+
+*********************************************
+            BORRADO DE LA BD                   
+*********************************************
+Limpieza de la base de datos
+
+
+*********************************************
+            PASOS REALIZADOS                   
+*********************************************
+
+
+
+*********************************************
+            COCHES CREADOS                   
+*********************************************
+Muestra los coches que contiene la BD
+
+
+*********************************************
+            PRUEBA DE BORRADO LÓGICO                   
+*********************************************
+Prueba de borrado lógico
+
